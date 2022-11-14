@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafoMahmudov
-- 👀 I’m interested in ... god knows
-- 🌱 I’m currently learning ... java minecraft edition
-- 💞️ I’m looking to collaborate on ... sitelabs
+- 👀 I’m interested in ...  java
+- 🌱 I’m currently learning ... java
+- 💞️ I’m looking to collaborate on ... java
 - 📫 How to reach me ... vorovskoy, gulpora ulitsa 35tiy dom👍
 
 <!---
